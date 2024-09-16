@@ -1,0 +1,219 @@
+[
+  {
+    "nome": "João Raudiney",
+    "semana": "Segunda",
+    "horario": "19:30 as 21:30",
+    "valorDaMensalidade": 800,
+    "saldoExcedentePorMes": {
+      "2024-10": 200
+    },
+    "pagamentos": [
+      {
+        "dia": "2024-09-15",
+        "valorRecebido": 800
+      },
+      {
+        "dia": "2024-09-15",
+        "valorRecebido": 200
+      }
+    ]
+  },
+  {
+    "nome": "Márcio",
+    "semana": "Segunda",
+    "horario": "21:30 as 23:00",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Robson",
+    "semana": "Terça",
+    "horario": "19:00 as 21:00",
+    "valorDaMensalidade": 800,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Dada",
+    "semana": "Terça",
+    "horario": "21:00 as 22:30",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Terça",
+    "horario": "22:30 as 00:00",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Fabiano",
+    "semana": "Quarta",
+    "horario": "19:30 as 21:00",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "José Ismael",
+    "semana": "Quarta",
+    "horario": "21:00 as 22:30",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Quarta",
+    "horario": "22:30 as 00:00",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Felipe Bradesco",
+    "semana": "Quinta",
+    "horario": "18:30 as 20:30",
+    "valorDaMensalidade": 800,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Romulo",
+    "semana": "Quinta",
+    "horario": "20:30 as 22:00",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Quinta",
+    "horario": "22:00 as 00:00",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Sexta",
+    "horario": "18:30 as 20:30",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Mayke",
+    "semana": "Sexta",
+    "horario": "20:30 as 22:00",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Sexta",
+    "horario": "22:00 as 00:00",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Pablo",
+    "semana": "Sabado",
+    "horario": "7:00 as 9:00",
+    "valorDaMensalidade": 650,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Sabado",
+    "horario": "15:30 as 17:30",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Paulo",
+    "semana": "Sabado",
+    "horario": "17:30 as 19:30",
+    "valorDaMensalidade": 650,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Sabado",
+    "horario": "19:30 as 21:30",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Henrique",
+    "semana": "Sabado",
+    "horario": "21:30 as 23:30",
+    "valorDaMensalidade": 600,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Felix",
+    "semana": "Domingo",
+    "horario": "7:00 as 9:00",
+    "valorDaMensalidade": 650,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Domingo",
+    "horario": "15:30 as 17:30",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {},
+    "pagamentos": []
+  },
+  {
+    "nome": "Horario livre",
+    "semana": "Domingo",
+    "horario": "15:30 as 17:30",
+    "valorDaMensalidade": 0,
+    "saldoExcedentePorMes": {
+      "2024-10": 600
+    },
+    "pagamentos": [
+      {
+        "dia": "2024-09-16",
+        "valorRecebido": 600
+      }
+    ]
+  },
+  {
+    "nome": "Heleno",
+    "semana": "Domingo",
+    "horario": "19:30 as 21:30",
+    "valorDaMensalidade": 700,
+    "saldoExcedentePorMes": {
+      "2024-10": 300
+    },
+    "pagamentos": [
+      {
+        "dia": "2024-09-16",
+        "valorRecebido": 300
+      },
+      {
+        "dia": "2024-09-16",
+        "valorRecebido": 500
+      },
+      {
+        "dia": "2024-09-16",
+        "valorRecebido": 300
+      }
+    ]
+  }
+]
